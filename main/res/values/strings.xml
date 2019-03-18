@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">Suivi de vos frais</string>
+    <string name="icon_frais_hf">Icone pour les frais hors forfait</string>
+    <string name="icon_recap_frais_hf">Icone pour le récapitulatif des frais hors forfait</string>
+    <string name="icon_frais_km">Icone pour les frais kilométriques</string>
+    <string name="euro">€</string>
+    <string name="ajouter">Ajouter</string>
+    <string name="km">Km</string>
+    <string name="plus">+</string>
+    <string name="moins">-</string>
+    <string name="valider">Valider</string>
+    <string name="deux_points">:</string>
+    <string name="title_frais_km">Frais kilométriques</string>
+    <string name="title_frais_hf">Frais hors forfait</string>
+    <string name="motif">Motif :</string>
+    <string name="montant">Montant :</string>
+    <string name="icone_frais_km">Icone des frais kilométriques</string>
+    <string name="icone_frais_repas">Icone des frais de repas</string>
+    <string name="icone_frais_nuitee">Icone des frais de nuitée</string>
+    <string name="icone_frais_etape">Icone des frais d\'étape</string>
+    <string name="icone_frais_hf">Icone des frais hors forfait</string>
+    <string name="icone_recap_hf">Icone du récapitulatif des frais hors forfait</string>
+    <string name="icone_transfert">Icone de la commande de transfert</string>
+    <string name="icone_supp_hf">Icône de suppression d\'une ligne de frais</string>
+    <string name="retour_accueil">Accueil</string>
+    <string name="title_activity_frais_repas">FraisRepasActivity</string>
+    <string name="title_frais_nuitees">Frais de nuitées</string>
+    <string name="title_frais_etapes">Frais d\'étapes</string>
+    <string name="title_frais_repas">Frais de repas</string>
+    <string name="nuitees">nuitées</string>
+    <string name="etapes">étapes</string>
+    <string name="repas">repas</string>
+    <string name="txt_erreur_champs_non_remplis">Veuillez remplir les champs.</string>
+    <string name="lbl_login">Login</string>
+    <string name="lbl_mot_de_passe">Mot de passe</string>
+    <string name="lbl_retour">Retour</string>
+    <string name="txt_identification">Identifiez-vous pour enregistrer</string>
+    <string name="txt_icone_identification">Icône Identification</string>
+    <string name="txt_erreur_identification">Le couple d\'identification Login/Mot de Passe ne correspond pas</string>
+    <string name="txt_succes_transfert">L\'enregistrement a bien été réalisé</string>
+    <string name="txt_attente">Veuillez patientez, le traitement est en cours</string>
+    <string name="txt_erreur">Une erreur est survenue</string>
+</resources>
