@@ -95,24 +95,24 @@ public class FraisNuiteesActivity extends AppCompatActivity {
     }
 
     /**
-     * Sur le clic du bouton plus : ajout de 10 dans la quantité
+     * Sur le clic du bouton plus : ajout de 1 dans la quantité
      */
     private void cmdPlus_clic() {
         findViewById(R.id.cmdNuiteesPlus).setOnClickListener(new Button.OnClickListener() {
             public void onClick(View v) {
-                qte+=10 ;
+                qte+=1 ;
                 enregNewQte() ;
             }
         }) ;
     }
 
     /**
-     * Sur le clic du bouton moins : enlève 10 dans la quantité si c'est possible
+     * Sur le clic du bouton moins : enlève 1 dans la quantité si c'est possible
      */
     private void cmdMoins_clic() {
         findViewById(R.id.cmdNuiteesMoins).setOnClickListener(new Button.OnClickListener() {
             public void onClick(View v) {
-                qte = Math.max(0, qte-10) ; // suppression de 10 si possible
+                qte = Math.max(0, qte-1) ; // suppression de 1 si possible
                 enregNewQte() ;
             }
         }) ;
